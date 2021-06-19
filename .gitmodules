@@ -1,0 +1,3 @@
+[submodule "project-protos"]
+	path = project-protos
+	url = git@github.com:fabianofernandeszup/project-protos.git
